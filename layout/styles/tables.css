@@ -1,0 +1,27 @@
+@charset "utf-8";
+/*
+Template Name: PlusBusiness
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+File: Tables CSS
+*/
+
+.tableSocial{width:100px; border-collapse:collapse; table-layout:auto; vertical-align:top; margin-bottom:15px; border:1px solid #034318;}
+
+.tableTotal{width:100%; border-collapse:collapse; table-layout:auto; vertical-align:top; margin-bottom:15px; border:1px solid #034318;}
+
+.tableTotal thead th{
+	color: #034318;
+	background-color: #034318;
+	border: 1px solid #034318;
+	border-collapse: collapse;
+	text-align: center;
+	table-layout: auto;
+	vertical-align: middle;
+}
+.tableTotal tbody td{vertical-align:top; border-collapse:collapse; border-left:1px solid #034318; border-right:1px solid #034318;}
+.tableTotal thead th, table tbody td{padding:5px; border-collapse:collapse;}
+.tableTotal tbody tr.light{color:#034318; background-color:#F7F7F7;}
+.tableTotal tbody tr.dark{color:#034318; background-color:#E8E8E8;}
